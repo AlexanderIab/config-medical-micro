@@ -1,0 +1,7 @@
+# example:
+#   property: dev
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/medical_demo
+    username: postgres
+    password: postgres
