@@ -1,5 +1,5 @@
-example:
-  property: default
+# example:
+#   property: default
 spring:
   jpa:
     hibernate:
